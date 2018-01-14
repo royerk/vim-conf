@@ -1,3 +1,3 @@
 git init
 
-git remote add origin git@github.com:royerk/vim-conf
+git remote add origin https://github.com/royerk/vim-conf
