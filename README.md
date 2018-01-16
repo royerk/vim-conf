@@ -8,6 +8,7 @@ Make soft link to load .vimrc: ln -s ~/.vim/.vimrc ~/.vimrc
 - NERDTree, **:NERDTree**
 - jedi for autocomplete
 - colorscheme
+- tagbar, **F8**, https://github.com/majutsushi/tagbar
 
 Run `bash install_plugins.sh`
 

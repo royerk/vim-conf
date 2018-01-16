@@ -9,3 +9,5 @@ git clone https://github.com/Xuyuanp/nerdtree-git-plugin.git ~/.vim/bundle/nerdt
 git clone https://github.com/nvie/vim-flake8.git ~/.vim/bundle/vim-flake8
 
 git submodule add https://github.com/flazz/vim-colorschemes.git ~/.vim/bundle/colorschemes
+
+git clone https://github.com/majutsushi/tagbar.git ~/.vim/bundle/tagbar
