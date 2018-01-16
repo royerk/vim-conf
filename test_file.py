@@ -1,9 +1,9 @@
 def a_function(a, b):
     result = 2
     for i in range(5):
-	result = result + b
+        result = result + b
     if a != 0:
-	return result
+        return result
     return result / a
 
 if __name__ == "__main__":

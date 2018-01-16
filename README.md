@@ -9,4 +9,5 @@ Make soft link to load .vimrc: ln -s ~.vim/.vimrc .vimrc
 - jedi for autocomplete
 - colorscheme
 
-
+A list of commands:
+- http://www.worldtimzone.com/res/vi.html
