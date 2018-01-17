@@ -1,3 +1,6 @@
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "/home/kevin/.vim/bundle/nerdcommenter"]
+	path = /home/kevin/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git

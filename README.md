@@ -9,6 +9,7 @@ Make soft link to load .vimrc: ln -s ~/.vim/.vimrc ~/.vimrc
 - jedi for autocomplete
 - colorscheme
 - tagbar, **F8**, https://github.com/majutsushi/tagbar
+- nerd commenter, https://github.com/scrooloose/nerdcommenter.git
 
 Run `bash install_plugins.sh`
 
